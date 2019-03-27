@@ -22,9 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by Anenn on 6/10/16.
- */
+
 public class FlowLikeView extends RelativeLayout {
 
     private List<Drawable> mLikeDrawables; // 图片的集合
